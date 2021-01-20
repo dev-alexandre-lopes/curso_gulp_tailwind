@@ -13,11 +13,17 @@ O **Gulp** é um automatizador de tarefas rápido na sua execução, simples de 
 
 Essas tarefas podem ser qualquer coisa que você precisa fazer de forma repetida ou que vai consumir muito do seu tempo. Por exemplo, **_minificar imagens_**, **_copiar diretórios_**,**_concatenar arquivos_**, **_compilar Javascript_** etc. Todas essas são tarefas que, se forem feitas manualmente, irá consumir muito tempo e trabalho; e o Gulp cuida de tudo isso.
 
+O **TailwindCSS** é um framework que utiliza uma abordagem de escrita e uso do CSS em que se procura, primeiramente, fazer uso das chamadas classes utilitárias (Utility First), classes estas que representam atributos do CSS, como border, background, border-radius e uma série de outras propriedades. Essa abordagem possui inúmeros sinônimos: Immutable CSS, Functional CSS, Atomic CSS entre outros.
+
 ## Boas Referências e a Documentação Oficial:
 
 [Website](https://gulpjs.com/) - Website Gulp
 
-[Repositório](https://github.com/lazymozek/gulp-with-tailwindcss) - Repositório Referência
+[Website](https://tailwindcss.com) - Website do Framework TailwindCSS
+
+[Repositório](https://github.com/lazymozek/gulp-with-tailwindcss) - Repositório Gulp + Tailwind (Referência)
+
+[Repositório](https://github.com/tailwindcss/tailwindcss) - Repositório Oficial do Framework TailwindCSS.
 
 [Documentação](https://gulpjs.com/docs/en/getting-started/quick-start/) - Getting Started com o Gulp
 
