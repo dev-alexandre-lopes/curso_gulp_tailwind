@@ -49,9 +49,8 @@ O **TailwindCSS** é um framework que utiliza uma abordagem de escrita e uso do 
 
 * Plugins Gulp Genéricos:
     * gulp-concat;
-    * gulp-sourcemaps;
    
-* Configuração do Ambiente;
+* Passo a Passo da Configuração do Ambiente:
 
 
 
