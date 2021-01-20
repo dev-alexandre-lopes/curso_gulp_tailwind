@@ -1,10 +1,12 @@
-# Curso Gulp + Tailwind 
+# Curso Gulp + TailwindCSS 
 
 <p align="center">
   <a href="https://gulpjs.com">
-    
+
+![gulp_tailwind](https://user-images.githubusercontent.com/64049906/105233567-670ef480-5b40-11eb-841f-0ce63f1c4419.jpg)
+
   </a>
-  <p align="center"><strong>Automatizando o Workflow para o Desenvolvimento WEB</strong></p>
+  <p align="center"><strong>Automatizando o Workflow para o Desenvolvimento WEB com o Framework TailwindCSS</strong></p>
 </p>
 
 O **Gulp** é um automatizador de tarefas rápido na sua execução, simples de usar e de fácil aprendizado. Ele usa como base a plataforma node.js para interpretar seu código e requer conhecimento de Javascript para criar suas tarefas.
