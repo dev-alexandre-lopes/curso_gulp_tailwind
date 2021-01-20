@@ -50,11 +50,11 @@ O **TailwindCSS** é um framework que utiliza uma abordagem de escrita e uso do 
 * Plugins Gulp Genéricos:
     * gulp-concat;
    
-* Passo a Passo da Configuração do Ambiente:
+## Passo a Passo da Configuração do Ambiente:
 
 1. Baixar os arquivos ou fazer o clone do projeto;
 
-2. Instalar as Dependências no package.json
+2. Instalar as dependências no package.json
 ```sh
 npm install
 ```
@@ -62,7 +62,7 @@ npm install
 ```sh
 npm run start
 ```
-4. Para gerar os arquivos minificados,optimizados individuais:
+4. Para gerar os arquivos minificados,optimizados e individuais na pasta dist:
 ```sh
 gulp htmlmin 
 ```
@@ -75,7 +75,7 @@ gulp babel
 ```sh
 gulp imgemin
 ```
-5. Para gerar os arquivos minificados,optimizados para produção em servidor:
+5. Para gerar os arquivos minificados,optimizados para produção em servidor na pasta build:
 ```sh
 npm run build 
 ```
