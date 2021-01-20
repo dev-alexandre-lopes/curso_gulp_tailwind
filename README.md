@@ -52,5 +52,30 @@ O **TailwindCSS** é um framework que utiliza uma abordagem de escrita e uso do 
    
 * Passo a Passo da Configuração do Ambiente:
 
+1. Baixar os arquivos ou fazer o clone do projeto;
 
-
+2. Instalar as Dependências no package.json
+```sh
+npm install
+```
+3. Para iniciar o desenvolvimento:
+```sh
+npm run start
+```
+4. Para gerar os arquivos minificados,optimizados individuais:
+```sh
+gulp htmlmin 
+```
+```sh
+gulp styles 
+```
+```sh
+gulp babel
+```
+```sh
+gulp imgemin
+```
+5. Para gerar os arquivos minificados,optimizados para produção em servidor:
+```sh
+npm run build 
+```
